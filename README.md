@@ -1,3 +1,5 @@
+![DK Hostmaster Logo](https://www.dk-hostmaster.dk/sites/default/files/dk-logo_0.png)
+
 # Roadmap
 
 An experimental presentation of the DK Hostmaster roadmap
